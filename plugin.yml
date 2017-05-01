@@ -1,0 +1,7 @@
+name: Zombie-AI
+author: TJPlaysNow
+main: com.pzg.www.main.PluginMain
+version: 1.0
+commands:
+  spawnZombie:
+    description: Spawns a custom zombie with the custom AI.
